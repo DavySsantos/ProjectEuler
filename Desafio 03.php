@@ -19,4 +19,8 @@
     
 //Explicação por trás da resolução 
 //
-//  A variavel $i é responsavel por apresetar o valor base no qual nosso codigo vai rodar, e a variavel $divisor é referente a nossa validação, iniciando com o valor 2, como primeiro numero primo, assim a cada vez que o sistema de loop (o while) for validado ou ele vai divir o valor e obter um numero primo ou vai adicionar mais um numero a nossa variavel $divisor, repetindo o ciclo até se chegar no limite do valor base apresentado pela variavel $i.
+//  A variavel $i é responsavel por apresetar o valor base no qual nosso codigo vai rodar,
+//e a variavel $divisor é referente a nossa validação, iniciando com o valor 2, como primeiro numero primo, 
+//assim a cada vez que o sistema de loop (o while) for validado ou ele vai divir o valor e obter um numero primo ou 
+//vai adicionar mais um numero a nossa variavel $divisor, 
+//repetindo o ciclo até se chegar no limite do valor base apresentado pela variavel $i.
